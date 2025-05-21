@@ -29,4 +29,5 @@ Keras_Preprocessing-1.1.2
 
 ![image](https://github.com/Raghavan2005/Real-Time-Face-Recognition-and-Demographics-Detection-System/assets/78393373/5d83877f-af2d-4f35-bdb3-ff06214fae58)
 ![image](https://github.com/Raghavan2005/Real-Time-Face-Recognition-and-Demographics-Detection-System/assets/78393373/d3d39bf3-b28b-4980-b004-b2b8f1e5ed42)
-![image](https://github.com/Raghavan2005/Real-Time-Face-Recognition-and-Demographics-Detection-System/assets/78393373/82711fa2-ef4b-4b8c-be26-245aa3819444)
+![Screenshot (123)](https://github.com/user-attachments/assets/78f623da-3f50-4c8e-b224-e5a5923d2563)
+
